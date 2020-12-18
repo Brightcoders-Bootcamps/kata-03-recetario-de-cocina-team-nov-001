@@ -1,96 +1,145 @@
 {
-  "Pepperoni Pizza Pockets": {
-    "name": "Peperoni Pizza Pockets",
-    "img": "https://www.elmejornido.com/sites/site.prod2.elmejornido.com/files/2018-09/qv_brands_HotPocketPepPizza_0.jpg",
-    "trending": true,
-    "recent": false,
-    "servings": 3,
-    "ingredients": {
-      "puff pastry": "1 sheet",
-      "peperoni": "15 slices",
-      "marinada sauce": "1 cup",
-      "sherdded mozzarella cheese": "1/2 cup",
-      "egg, for egg wash": 1
+  "Recipes": [
+    {
+      "name": "Peperoni Pizza Pockets",
+      "img": "https://www.elmejornido.com/sites/site.prod2.elmejornido.com/files/2018-09/qv_brands_HotPocketPepPizza_0.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 3,
+      "ingredients": {
+        "puff pastry": "1 sheet",
+        "peperoni": "15 slices",
+        "marinada sauce": "1 cup",
+        "sherdded mozzarella cheese": "1/2 cup",
+        "egg, for egg wash": 1
+      }
+    },
+    {
+      "name": "Meatball Sub Bake",
+      "img": "https://img.buzzfeed.com/video-api-prod/assets/27a70b9f9d8342d3a878333e84af3a23/BFV5796_MeatballSubBake-Thumb1080.jpg",
+      "trending": false,
+      "recent": true,
+      "servings": 3,
+      "ingredients": {
+        "refrigerated biscuit": "1 tube",
+        "frozen mini meatballs": 24,
+        "marinada sauce": "1 jar",
+        "sherdded mozzarella cheese": "2 cup"
+      }
+    },
+    {
+      "name": "Chocolate Chip",
+      "img": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/62298.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 6,
+      "ingredients": {
+        "granulated sugar": "1/2 cup",
+        "brown sugar": "3/4 cup",
+        "salt": "1 teaspoon",
+        "egg": 1,
+        "vanilla extract": 1,
+        "all-purpose flour": "1 1/4 cups",
+        "baking soda": "1/2 teaspoon",
+        "milk or chocolate chunks": "4 oz",
+        "dark chocolate chunk": "4 oz"
+      }
+    },
+    {
+      "name": "Pancake Cups",
+      "img": "https://bakingbites.com/wp-content/uploads/2017/02/pancakecups-1.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 3,
+      "ingredients": {
+        "flour": "1/2 cup",
+        "milk": "1/2 cup",
+        "eggs": 3,
+        "melted butter": "2 tablespoons",
+        "vanilla": "1/2 teaspoon",
+        "vanilla topping": "1/2 teaspoon"
+      }
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "img": "https://hips.hearstapps.com/delish/assets/17/36/1504715566-delish-fettuccine-alfredo.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 4,
+      "ingredients": {
+        "fetuccine": "450 g",
+        "double cream": "120 ml",
+        "butter": "10 g",
+        "grated Parmesan": "50 g",
+        "chopped parsley": "2 tablespoons"
+      }
+    },
+    {
+      "name": "Chili Dogs",
+      "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2019-07-recipe-best-chili-dogs%2FBest-Chili-Dogs-Backyard-BBQ-take2",
+      "trending": true,
+      "recent": true,
+      "servings": 8,
+      "ingredients": {
+        "olive oil": "1 tablespoon",
+        "ground beef": "1 pound",
+        "onion powder": "1 teaspoon",
+        "garlic powder": "1 teaspoon",
+        "kosher salt": "1/2 teaspoon",
+        "chili powder": "1/2 teaspoon",
+        "can tomato sauce": "1 (15-ounce)",
+        "ketchup": "1/4 cup",
+        "dijon mustard": "2 tablespoons",
+        "all-beef hot dogs": "8",
+        "hot dogs buns": "8"
+      }
+    },
+    {
+      "name": "Cheesecake",
+      "img": "https://i2.wp.com/www.sugarspunrun.com/wp-content/uploads/2019/01/Best-Cheesecake-Recipe-2-1-of-1-4.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 12,
+      "ingredients": {
+        "cream cheese": "32 oz",
+        "sugar": "1 cup",
+        "sour cream": "2/3 cups",
+        "vanilla extract": "1 1/2 teaspoons",
+        "salt": "1/8 teaspoon",
+        "eggs": 4
+      }
+    },
+    {
+      "name": "Shrimp Scampi",
+      "img": "https://www.cookingclassy.com/wp-content/uploads/2019/07/shrimp-scampi-02-768x1153.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 5,
+      "ingredients": {
+        "linguine": "12 oz",
+        "shrimp": "1 1/2 lbs",
+        "virgin olive oil": "3 tablespoons",
+        "unsalted butter": "3 tablespoons",
+        "minced garlic cloves": 4,
+        "dry white whine": "1/2 cup",
+        "salt": "to taste",
+        "fresh black pepper": "to taste",
+        "lemon juice": "2 tablespoons",
+        "frech parsley": "1/4 cup"
+      }
+    },
+    {
+      "name": "Scrambled eggs",
+      "img": "https://toriavey.com/images/2014/06/scrambled_eggs_001.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 2,
+      "ingredients": {
+        "large eggs": 4,
+        "milk": "1 tablespoon",
+        "salt": "to taste",
+        "pepper": "to taste"
+      }
     }
-  },
-  "Meatball Sub Bake": {
-    "name": "Meatball Sub Bake",
-    "img": "https://img.buzzfeed.com/video-api-prod/assets/27a70b9f9d8342d3a878333e84af3a23/BFV5796_MeatballSubBake-Thumb1080.jpg",
-    "trending": false,
-    "recent": true,
-    "servings": 3,
-    "ingredients": {
-      "refrigerated biscuit": "1 tube",
-      "frozen mini meatballs": 24,
-      "marinada sauce": "1 jar",
-      "sherdded mozzarella cheese": "2 cup"
-    }
-  },
-  "Chocolate Chip": {
-    "name": "Chocolate Chip",
-    "img": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/62298.jpg",
-    "trending": true,
-    "recent": false,
-    "servings": 6,
-    "ingredients": {
-      "granulated sugar": "1/2 cup",
-      "brown sugar": "3/4 cup",
-      "salt": "1 teaspoon",
-      "egg": 1,
-      "vanilla extract": 1,
-      "all-purpose flour": "1 1/4 cups",
-      "baking soda": "1/2 teaspoon",
-      "milk or chocolate chunks": "4 oz",
-      "dark chocolate chunk": "4 oz"
-    }
-  },
-  "Pancake Cups": {
-    "name": "Pancake Cups",
-    "img": "https://bakingbites.com/wp-content/uploads/2017/02/pancakecups-1.jpg",
-    "trending": true,
-    "recent": false,
-    "servings": 3,
-    "ingredients": {
-      "flour": "1/2 cup",
-      "milk": "1/2 cup",
-      "eggs": 3,
-      "melted butter": "2 tablespoons",
-      "vanilla": "1/2 teaspoon",
-      "vanilla topping": "1/2 teaspoon"
-    }
-  },
-  "Fettuccine Alfredo": {
-    "name": "Fettuccine Alfredo",
-    "img": "https://hips.hearstapps.com/delish/assets/17/36/1504715566-delish-fettuccine-alfredo.jpg",
-    "trending": true,
-    "recent": false,
-    "servings": 4,
-    "ingredients": {
-      "fetuccine": "450 g",
-      "double cream": "120 ml",
-      "butter": "10 g",
-      "grated Parmesan": "50 g",
-      "chopped parsley": "2 tablespoons"
-    }
-  },
-  "Chili Dogs": {
-    "name": "Chili Dogs",
-    "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2019-07-recipe-best-chili-dogs%2FBest-Chili-Dogs-Backyard-BBQ-take2",
-    "trending": true,
-    "recent": true,
-    "servings": 8,
-    "ingredients": {
-      "olive oil": "1 tablespoon",
-      "ground beef": "1 pound",
-      "onion powder": "1 teaspoon",
-      "garlic powder": "1 teaspoon",
-      "kosher salt": "1/2 teaspoon",
-      "chili powder": "1/2 teaspoon",
-      "can tomato sauce": "1 (15-ounce)",
-      "ketchup": "1/4 cup",
-      "dijon mustard": "2 tablespoons",
-      "all-beef hot dogs": "8",
-      "hot dogs buns": "8"
-    }
-  }
+  ]
 }
