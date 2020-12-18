@@ -19,7 +19,7 @@ function SearchBar() {
 const styles = StyleSheet.create({
   cointainer: {
     margin: 15,
-    backgroundColor: 'gray',
+    backgroundColor: '#454741',
     borderRadius: 15,
     height: 50,
     display: 'flex',
