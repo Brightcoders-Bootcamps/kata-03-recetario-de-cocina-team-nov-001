@@ -1,17 +1,17 @@
 import React from 'react';
-import {View, Text, Button, StyleSheet} from 'react-native';
+import {View, StyleSheet} from 'react-native';
 import SearchBar from '../components/SearchBar';
 import ListItem from '../components/ListItem';
-import HorizontalList from '../components/HorizontalList';
 
 function Index({navigation: {navigate}}) {
   const data = require('../db/recipes.json');
   const {Recipes} = data;
-
+  const recentRecipes = Recipes.filter((recipe) => recipe.recent);
   return (
     <View style={styles.container}>
       <SearchBar />
       <ListItem navigate={navigate} title={'TRENDING'} Recipes={Recipes} />
+      <ListItem navigate={navigate} title={'RECENT'} Recipes={recentRecipes} />
     </View>
   );
 }

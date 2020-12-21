@@ -1,11 +1,20 @@
 import React from 'react';
-import {View, Text, Button} from 'react-native';
-function Details({navigation: {navigate}, route: {params}}) {
-  console.log(params);
+import {View} from 'react-native';
+import Image from '../components/Image';
+import DishDetails from '../components/DishDetails';
+function Details({navigation: {goBack}, route: {params}}) {
   return (
     <View>
-      <Text>Details</Text>
-      <Button title="go to details" onPress={() => navigate('Index')} />
+      <Image
+        title={params.title}
+        name={params.item.name}
+        img={params.item.img}
+        goBack={goBack}
+      />
+      <DishDetails
+        servings={params.item.servings}
+        data={params.item.ingredients}
+      />
     </View>
   );
 }

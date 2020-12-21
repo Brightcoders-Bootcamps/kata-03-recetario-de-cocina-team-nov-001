@@ -6,13 +6,28 @@
       "trending": true,
       "recent": false,
       "servings": 3,
-      "ingredients": {
-        "puff pastry": "1 sheet",
-        "peperoni": "15 slices",
-        "marinada sauce": "1 cup",
-        "sherdded mozzarella cheese": "1/2 cup",
-        "egg, for egg wash": 1
-      }
+      "ingredients": [
+        {
+          "name": "puff pastry",
+          "quantity": "1 sheet"
+        },
+        {
+          "name": "peperoni",
+          "quantity": "15 slices"
+        },
+        {
+          "name": "marinada sauce",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "sherdded mozzarella cheese",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "egg, for egg wash",
+          "quantity": 1
+        }
+      ]
     },
     {
       "name": "Meatball Sub Bake",
@@ -20,12 +35,24 @@
       "trending": false,
       "recent": true,
       "servings": 3,
-      "ingredients": {
-        "refrigerated biscuit": "1 tube",
-        "frozen mini meatballs": 24,
-        "marinada sauce": "1 jar",
-        "sherdded mozzarella cheese": "2 cup"
-      }
+      "ingredients": [
+        {
+          "name": "refrigerated biscuit",
+          "quantity": "1 tube"
+        },
+        {
+          "name": "frozen mini meatballs",
+          "quantity": 24
+        },
+        {
+          "name": "marinada sauce",
+          "quantity": "1 jar"
+        },
+        {
+          "name": "sherdded mozzarella cheese",
+          "quantity": "2 cup"
+        }
+      ]
     },
     {
       "name": "Chocolate Chip",
@@ -33,17 +60,40 @@
       "trending": true,
       "recent": false,
       "servings": 6,
-      "ingredients": {
-        "granulated sugar": "1/2 cup",
-        "brown sugar": "3/4 cup",
-        "salt": "1 teaspoon",
-        "egg": 1,
-        "vanilla extract": 1,
-        "all-purpose flour": "1 1/4 cups",
-        "baking soda": "1/2 teaspoon",
-        "milk or chocolate chunks": "4 oz",
-        "dark chocolate chunk": "4 oz"
-      }
+      "ingredients": [
+        {
+          "name": "granulated sugar",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "brown sugar",
+          "quantity": "3/4 cup"
+        },
+        {
+          "name": "salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "egg",
+          "quantity": 1
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": 1
+        },
+        {
+          "name": "all-purpose flour",
+          "quantity": "1 1/4 cups"
+        },
+        {
+          "name": "milk or chocolate chunks",
+          "quantity": "4 oz"
+        },
+        {
+          "name": "dark chocolate chunk",
+          "quantity": "4 oz"
+        }
+      ]
     },
     {
       "name": "Pancake Cups",
@@ -51,28 +101,61 @@
       "trending": true,
       "recent": false,
       "servings": 3,
-      "ingredients": {
-        "flour": "1/2 cup",
-        "milk": "1/2 cup",
-        "eggs": 3,
-        "melted butter": "2 tablespoons",
-        "vanilla": "1/2 teaspoon",
-        "vanilla topping": "1/2 teaspoon"
-      }
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "milk",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "eggs",
+          "quantity": 3
+        },
+        {
+          "name": "melted butter",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "vanilla",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "vanilla topping",
+          "quantity": "1/2 teaspoon"
+        }
+      ]
     },
     {
       "name": "Fettuccine Alfredo",
       "img": "https://hips.hearstapps.com/delish/assets/17/36/1504715566-delish-fettuccine-alfredo.jpg",
-      "trending": true,
-      "recent": false,
+      "trending": false,
+      "recent": true,
       "servings": 4,
-      "ingredients": {
-        "fetuccine": "450 g",
-        "double cream": "120 ml",
-        "butter": "10 g",
-        "grated Parmesan": "50 g",
-        "chopped parsley": "2 tablespoons"
-      }
+      "ingredients": [
+        {
+          "name": "fetuccine",
+          "quantity": "450 g"
+        },
+        {
+          "name": "double cream",
+          "quantity": "120 ml"
+        },
+        {
+          "name": "butter",
+          "quantity": "10 g"
+        },
+        {
+          "name": "grated",
+          "quantity": "50 g"
+        },
+        {
+          "name": "chopped parsley",
+          "quantity": "2 tablespoons"
+        }
+      ]
     },
     {
       "name": "Chili Dogs",
@@ -80,34 +163,85 @@
       "trending": true,
       "recent": true,
       "servings": 8,
-      "ingredients": {
-        "olive oil": "1 tablespoon",
-        "ground beef": "1 pound",
-        "onion powder": "1 teaspoon",
-        "garlic powder": "1 teaspoon",
-        "kosher salt": "1/2 teaspoon",
-        "chili powder": "1/2 teaspoon",
-        "can tomato sauce": "1 (15-ounce)",
-        "ketchup": "1/4 cup",
-        "dijon mustard": "2 tablespoons",
-        "all-beef hot dogs": "8",
-        "hot dogs buns": "8"
-      }
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "ground beef",
+          "quantity": "1 pound"
+        },
+        {
+          "name": "onion powder",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "garlic powder",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "kosher salt",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "chili powder",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "can tomato sauce",
+          "quantity": "1 (15-ounce)"
+        },
+        {
+          "name": "ketchup",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "dijon mustard",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "all-beef hot dogs",
+          "quantity": 8
+        },
+        {
+          "name": "hot dogs buns",
+          "quantity": 8
+        }
+      ]
     },
     {
       "name": "Cheesecake",
       "img": "https://i2.wp.com/www.sugarspunrun.com/wp-content/uploads/2019/01/Best-Cheesecake-Recipe-2-1-of-1-4.jpg",
       "trending": true,
-      "recent": false,
+      "recent": true,
       "servings": 12,
-      "ingredients": {
-        "cream cheese": "32 oz",
-        "sugar": "1 cup",
-        "sour cream": "2/3 cups",
-        "vanilla extract": "1 1/2 teaspoons",
-        "salt": "1/8 teaspoon",
-        "eggs": 4
-      }
+      "ingredients": [
+        {
+          "name": "cream cheese",
+          "quantity": "32 oz"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "sour cream",
+          "quantity": "2/3 cups"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1 1/2 teaspoons"
+        },
+        {
+          "name": "salt",
+          "quantity": "1/8 teaspoon"
+        },
+        {
+          "name": "eggs",
+          "quantity": 4
+        }
+      ]
     },
     {
       "name": "Shrimp Scampi",
@@ -115,18 +249,48 @@
       "trending": true,
       "recent": false,
       "servings": 5,
-      "ingredients": {
-        "linguine": "12 oz",
-        "shrimp": "1 1/2 lbs",
-        "virgin olive oil": "3 tablespoons",
-        "unsalted butter": "3 tablespoons",
-        "minced garlic cloves": 4,
-        "dry white whine": "1/2 cup",
-        "salt": "to taste",
-        "fresh black pepper": "to taste",
-        "lemon juice": "2 tablespoons",
-        "frech parsley": "1/4 cup"
-      }
+      "ingredients": [
+        {
+          "name": "linguine",
+          "quantity": "12 oz"
+        },
+        {
+          "name": "shrimp",
+          "quantity": "1 1/2 lbs"
+        },
+        {
+          "name": "virgin olive oil",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "unsalted butter",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "minced garlic cloves",
+          "quantity": 4
+        },
+        {
+          "name": "dry white whine",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "salt",
+          "quantity": "to taste"
+        },
+        {
+          "name": "fresh black pepper",
+          "quantity": "to taste"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "frech parsley",
+          "quantity": "1/4 cup"
+        }
+      ]
     },
     {
       "name": "Scrambled eggs",
@@ -134,12 +298,24 @@
       "trending": true,
       "recent": false,
       "servings": 2,
-      "ingredients": {
-        "large eggs": 4,
-        "milk": "1 tablespoon",
-        "salt": "to taste",
-        "pepper": "to taste"
-      }
+      "ingredients": [
+        {
+          "name": "large eggs",
+          "quantity": 4
+        },
+        {
+          "name": "milk",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "salt",
+          "quantity": "to taste"
+        },
+        {
+          "name": "pepper",
+          "quantity": "to taste"
+        }
+      ]
     }
   ]
 }
