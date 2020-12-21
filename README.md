@@ -95,7 +95,7 @@ Al ser reutilizables `List Item` y `Horizontal List`pueden servir tanto para tre
 
 ## Entregable
 - Código fuente en Github
-- Incluir en el repositorio la puntuación obtenida (badge) en DeepScan
+- Incluir en el repositorio la puntuación obtenida (badge) en DeepScan [![DeepScan grade](https://deepscan.io/api/teams/12085/projects/15180/branches/300002/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=12085&pid=15180&bid=300002)
 - Incluir en el repositorio la puntuación obtenida (badge) en CodeClimate
 - Documentar en [este archivo](setup/README.md) los pasos necesarios para ejecutar la App
 - [Los commits deben se significativos](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4)
