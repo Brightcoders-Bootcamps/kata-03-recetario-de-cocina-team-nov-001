@@ -17,6 +17,7 @@ const ListItem = ({navigate, title, Recipes}) => {
         keyExtractor={(item) => item.name}
         renderItem={({item}) => (
           <TouchableOpacity
+            testID="btn"
             onPress={() => navigate('Details', {item, title})}
             style={styles.Item}>
             <Image style={styles.Image} source={{uri: item.img}} />

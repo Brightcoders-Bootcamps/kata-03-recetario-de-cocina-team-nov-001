@@ -4,7 +4,7 @@ import Image from '../components/Image';
 import DishDetails from '../components/DishDetails';
 function Details({navigation: {goBack}, route: {params}}) {
   return (
-    <View>
+    <View testID='details screen'>
       <Image
         title={params.title}
         name={params.item.name}

@@ -6,18 +6,20 @@ const Icons = ({goBack}) => {
   const [heart, setHeart] = useState('true');
   return (
     <View style={styles.iconContainer}>
-      <TouchableOpacity onPress={() => goBack()}>
+      <TouchableOpacity onPress={() => goBack()} testID="closeBtn">
         <Icon name="close" size={30} color="#FFFF" />
       </TouchableOpacity>
       <View style={styles.rightContainer}>
         <TouchableOpacity style={{marginRight: 15}}>
           <ShareIcon name="share-apple" size={40} color="#FFFF" />
         </TouchableOpacity>
-        <TouchableOpacity onPress={() => setHeart((prev) => !prev)}>
+        <TouchableOpacity
+          testID="HeartBtn"
+          onPress={() => setHeart((prev) => !prev)}>
           {heart ? (
-            <Icon name="hearto" size={30} color="#FFFF" />
+            <Icon name="hearto" size={30} color="#FFFF" testID="HeartIcon" />
           ) : (
-            <Icon name="heart" size={30} color="#FFFF" />
+            <Icon name="heart" size={30} color="#FFFF" testID="HeartIcon" />
           )}
         </TouchableOpacity>
       </View>

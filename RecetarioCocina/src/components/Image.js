@@ -6,6 +6,7 @@ const Image = ({title, name, img, goBack}) => {
   return (
     <View style={styles.container}>
       <ImageBackground
+        testID="Img"
         source={{uri: img}}
         style={styles.img}
         imageStyle={{opacity: 0.45, backgroundColor: 'black'}}>

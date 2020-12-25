@@ -5,14 +5,16 @@ const DishDetails = ({servings, data}) => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Ingredients</Text>
-      <Text style={styles.title}>for {servings} servings</Text>
+      <Text style={styles.title} testID="subtitle">
+        for {servings} servings
+      </Text>
       <FlatList
         data={data}
         keyExtractor={(item) => item.name}
         renderItem={({item}) => (
-          <View style={styles.listContainer}>
-            <Text style={styles.listText}>{item.name}</Text>
-            <Text style={styles.listText}>{item.quantity}</Text>
+          <View style={styles.listContainer} testID='item'>
+            <Text style={styles.listText} testID='name'>{item.name}</Text>
+            <Text style={styles.listText} testID='quantity'>{item.quantity}</Text>
           </View>
         )}
       />

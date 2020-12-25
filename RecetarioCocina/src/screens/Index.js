@@ -8,7 +8,7 @@ function Index({navigation: {navigate}}) {
   const {Recipes} = data;
   const recentRecipes = Recipes.filter((recipe) => recipe.recent);
   return (
-    <View style={styles.container}>
+    <View style={styles.container} testID='index page'>
       <SearchBar />
       <ListItem navigate={navigate} title={'TRENDING'} Recipes={Recipes} />
       <ListItem navigate={navigate} title={'RECENT'} Recipes={recentRecipes} />
