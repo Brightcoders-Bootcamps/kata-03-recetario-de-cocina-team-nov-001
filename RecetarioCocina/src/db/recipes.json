@@ -1,0 +1,321 @@
+{
+  "Recipes": [
+    {
+      "name": "Peperoni Pizza Pockets",
+      "img": "https://www.elmejornido.com/sites/site.prod2.elmejornido.com/files/2018-09/qv_brands_HotPocketPepPizza_0.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 3,
+      "ingredients": [
+        {
+          "name": "puff pastry",
+          "quantity": "1 sheet"
+        },
+        {
+          "name": "peperoni",
+          "quantity": "15 slices"
+        },
+        {
+          "name": "marinada sauce",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "sherdded mozzarella cheese",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "egg, for egg wash",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Meatball Sub Bake",
+      "img": "https://img.buzzfeed.com/video-api-prod/assets/27a70b9f9d8342d3a878333e84af3a23/BFV5796_MeatballSubBake-Thumb1080.jpg",
+      "trending": false,
+      "recent": true,
+      "servings": 3,
+      "ingredients": [
+        {
+          "name": "refrigerated biscuit",
+          "quantity": "1 tube"
+        },
+        {
+          "name": "frozen mini meatballs",
+          "quantity": 24
+        },
+        {
+          "name": "marinada sauce",
+          "quantity": "1 jar"
+        },
+        {
+          "name": "sherdded mozzarella cheese",
+          "quantity": "2 cup"
+        }
+      ]
+    },
+    {
+      "name": "Chocolate Chip",
+      "img": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/62298.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 6,
+      "ingredients": [
+        {
+          "name": "granulated sugar",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "brown sugar",
+          "quantity": "3/4 cup"
+        },
+        {
+          "name": "salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "egg",
+          "quantity": 1
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": 1
+        },
+        {
+          "name": "all-purpose flour",
+          "quantity": "1 1/4 cups"
+        },
+        {
+          "name": "milk or chocolate chunks",
+          "quantity": "4 oz"
+        },
+        {
+          "name": "dark chocolate chunk",
+          "quantity": "4 oz"
+        }
+      ]
+    },
+    {
+      "name": "Pancake Cups",
+      "img": "https://bakingbites.com/wp-content/uploads/2017/02/pancakecups-1.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 3,
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "milk",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "eggs",
+          "quantity": 3
+        },
+        {
+          "name": "melted butter",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "vanilla",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "vanilla topping",
+          "quantity": "1/2 teaspoon"
+        }
+      ]
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "img": "https://hips.hearstapps.com/delish/assets/17/36/1504715566-delish-fettuccine-alfredo.jpg",
+      "trending": false,
+      "recent": true,
+      "servings": 4,
+      "ingredients": [
+        {
+          "name": "fetuccine",
+          "quantity": "450 g"
+        },
+        {
+          "name": "double cream",
+          "quantity": "120 ml"
+        },
+        {
+          "name": "butter",
+          "quantity": "10 g"
+        },
+        {
+          "name": "grated",
+          "quantity": "50 g"
+        },
+        {
+          "name": "chopped parsley",
+          "quantity": "2 tablespoons"
+        }
+      ]
+    },
+    {
+      "name": "Chili Dogs",
+      "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2019-07-recipe-best-chili-dogs%2FBest-Chili-Dogs-Backyard-BBQ-take2",
+      "trending": true,
+      "recent": true,
+      "servings": 8,
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "ground beef",
+          "quantity": "1 pound"
+        },
+        {
+          "name": "onion powder",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "garlic powder",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "kosher salt",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "chili powder",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "can tomato sauce",
+          "quantity": "1 (15-ounce)"
+        },
+        {
+          "name": "ketchup",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "dijon mustard",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "all-beef hot dogs",
+          "quantity": 8
+        },
+        {
+          "name": "hot dogs buns",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "name": "Cheesecake",
+      "img": "https://i2.wp.com/www.sugarspunrun.com/wp-content/uploads/2019/01/Best-Cheesecake-Recipe-2-1-of-1-4.jpg",
+      "trending": true,
+      "recent": true,
+      "servings": 12,
+      "ingredients": [
+        {
+          "name": "cream cheese",
+          "quantity": "32 oz"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "sour cream",
+          "quantity": "2/3 cups"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1 1/2 teaspoons"
+        },
+        {
+          "name": "salt",
+          "quantity": "1/8 teaspoon"
+        },
+        {
+          "name": "eggs",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "name": "Shrimp Scampi",
+      "img": "https://www.cookingclassy.com/wp-content/uploads/2019/07/shrimp-scampi-02-768x1153.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 5,
+      "ingredients": [
+        {
+          "name": "linguine",
+          "quantity": "12 oz"
+        },
+        {
+          "name": "shrimp",
+          "quantity": "1 1/2 lbs"
+        },
+        {
+          "name": "virgin olive oil",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "unsalted butter",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "minced garlic cloves",
+          "quantity": 4
+        },
+        {
+          "name": "dry white whine",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "salt",
+          "quantity": "to taste"
+        },
+        {
+          "name": "fresh black pepper",
+          "quantity": "to taste"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "frech parsley",
+          "quantity": "1/4 cup"
+        }
+      ]
+    },
+    {
+      "name": "Scrambled eggs",
+      "img": "https://toriavey.com/images/2014/06/scrambled_eggs_001.jpg",
+      "trending": true,
+      "recent": false,
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "large eggs",
+          "quantity": 4
+        },
+        {
+          "name": "milk",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "salt",
+          "quantity": "to taste"
+        },
+        {
+          "name": "pepper",
+          "quantity": "to taste"
+        }
+      ]
+    }
+  ]
+}
